@@ -1,6 +1,7 @@
 import streamlit as st
 
 def main():
+    st.image("logo.png", width=200)
     st.title("Connecteurstek LLC Privacy Policy & Terms of Service")
     st.markdown("## Privacy Policy")
     st.markdown("### Effective Date: March 28, 2025")
